@@ -2,7 +2,7 @@
 
 ## Olá, eu sou  Marcio de Oliveira, sou apaixanado em tecnologia!
 
-- 🔭 Estou em transição de carreira, busco por uma oportunidade na área de tecnologia
+- 🔭 Estou em transição de carreira, busco por uma oportunidade na área da tecnologia
 - 🌱 Atualmente faço o bootcamp na generation
 - 😄 Pronomes Ele\dele
 ##
